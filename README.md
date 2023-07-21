@@ -1,5 +1,5 @@
 # Amazon-Clone-01
-A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS and Vanilla Javascript. 
+A frontend clone of E-commerce website of Amazon for IBM Frontend Development internship program. This is created using HTML,CSS and  Javascript. 
 
 # Technologies:
 * HTML5
